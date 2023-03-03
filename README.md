@@ -1,2 +1,3 @@
-# HTML-CSS-STEM-STREET-Humanities-Prep
-Lecture notes for the Web Design class at Humanities Preparatory Academy
+# Web Design Lecture Notes
+
+Glenn Tatum's teaching assistant lecture Notes for STEM STREET's Web Design class.

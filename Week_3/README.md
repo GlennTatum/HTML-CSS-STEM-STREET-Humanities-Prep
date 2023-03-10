@@ -1,4 +1,4 @@
-# Class Overview 3-3-28
+# Class Overview 3-3-23
 
 Today in class we started writing out a basic outline for our Resume with HTML and CSS using the online integrated development environment Replit. We went over how to use the `style.css` file in combination with our `index.html` file to style HTML tags such as the `<header>`.
 
@@ -40,3 +40,21 @@ Elements are designed to be opened `<element>` and closed by pre-appending a `/`
 ## Review
 
 The Mozilla Developer Network is your best resource! There are links to the MDN under each attribute that we have gone over today.
+
+# Class Overview 3-10-23
+
+## Class Objectives
+
+### Resume Assignment
+
+Create a resume using css styles in there header and displayed their previous experience utilizing header tags and unordered lists.
+
+- `<section>`
+- unordered lists `<ul>`
+- headers `<h3>`
+
+## Notes
+
+How to use class selectors and Id selectors for styling.
+
+[Classes and Id CSS Selectors - Mozzila Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#class_selectors)

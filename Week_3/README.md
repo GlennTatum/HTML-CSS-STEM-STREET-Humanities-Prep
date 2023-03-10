@@ -40,3 +40,19 @@ Elements are designed to be opened `<element>` and closed by pre-appending a `/`
 ## Review
 
 The Mozilla Developer Network is your best resource! There are links to the MDN under each attribute that we have gone over today.
+
+# Class Overview 3-10-23
+
+## Class Objectives
+
+### Resume Assignment (Week 3)
+
+Students created a resume using css styles in there header and displayed their previous experience using header tags and unordered lists.
+
+- `<section>`
+- unordered lists `<ul>`
+- headers `<h3>`
+
+## Notes
+
+[CSS Selectors - Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors#class_selectors)
